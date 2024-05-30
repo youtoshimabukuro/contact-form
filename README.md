@@ -16,8 +16,8 @@ php
 laravel 8.x
 MySQL
 
-## ER図
-< - - - 作成したER図の画像 - - - >
+ER図
+
 
 URL
 ・開発環境：http://localhost/
